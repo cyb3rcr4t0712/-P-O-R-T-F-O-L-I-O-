@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+# $whoami
+Hello, World!👋 
 
-You can use the [editor on GitHub](https://github.com/cyb3rcr4t0712/Portfolio./edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+This is Shreyash, goes by the name "cybercrat0712" on most cyber platforms, is a full-time student currently pursuing his Bachelors in Computer Science Engineering. His interests lie in the realm of Cyber Security.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+My strength is that I am always ready to take up new challenges and strive for excellence.
+I believe in myself and my hard work and I want fulfillment in everything.
 
-### Markdown
+My short term goal is to achieve excellence in the skills, I'm mastering, take up the challenge and my long term goal is to be a renowned CyberSec analyst in an organization and start up my cyber security firm and spread the awareness of security.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Outside this realm, I practice Yoga and Mindfulness and listen to Podcasts(realted to mindfullness and infosec).
 
-```markdown
-Syntax highlighted code block
+# Experience
+Research Intern @ The Computer Noob
+October 2021 - present
+Research on Personalized Dictionary Attacks: Creating Target-Specific Wordlists
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cyb3rcr4t0712/Portfolio./settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+# Skills
+## Operating System: Windows, Linux(Kali & Ubuntu)
+## Tools: VirtualBox
+## Languages: Novice Mid in C, C++ and Java. Novice Low in Python.
