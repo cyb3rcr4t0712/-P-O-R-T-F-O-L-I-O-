@@ -7,9 +7,9 @@ My short term goal is to achieve excellence in the skills, I'm mastering, take u
 Outside this realm, I practice Yoga and Mindfulness and listen to Podcasts(realted to mindfullness and infosec).
 
 # E X P E R I E N C  E
-Research Intern @ The Computer Noob
-October 2021 - present
-Research on Personalized Dictionary Attacks: Creating Target-Specific Wordlists
+* Research Intern @ The Computer Noob
+- October 2021 - present
+*Research on Personalized Dictionary Attacks: Creating Target-Specific Wordlists
 
 # S K I L L S
  * Operating System: Windows, Linux(Kali & Ubuntu)
