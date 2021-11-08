@@ -16,6 +16,6 @@ October 2021 - present
 Research on Personalized Dictionary Attacks: Creating Target-Specific Wordlists
 
 # Skills
-## Operating System: Windows, Linux(Kali & Ubuntu)
-## Tools: VirtualBox
-## Languages: Novice Mid in C, C++ and Java. Novice Low in Python.
+ -Operating System: Windows, Linux(Kali & Ubuntu)
+ -Tools: VirtualBox
+ -Languages: Novice Mid in C, C++ and Java. Novice Low in Python.
