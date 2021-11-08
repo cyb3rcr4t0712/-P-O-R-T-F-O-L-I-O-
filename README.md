@@ -4,7 +4,7 @@ Hello, World!👋
 This is Shreyash, goes by the name "cybercrat0712" on most cyber platforms, is a full-time student currently pursuing his Bachelors in Computer Science Engineering. His interests lie in the realm of Cyber Security.
 My short term goal is to achieve excellence in the skills, I'm mastering, take up the challenge and my long term goal is to be a renowned CyberSec analyst in an organization and start up my cyber security firm and spread the awareness of security.
 
-Outside this realm, I practice Yoga and Mindfulness and listen to Podcasts(realted to mindfullness and infosec).
+Outside this realm, I practice Yoga and Mindfulness and listen to Podcasts(related to mindfullness and infosec).
 
 # E X P E R I E N C  E
 - Research Intern @ The Computer Noob
